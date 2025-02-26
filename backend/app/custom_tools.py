@@ -1,6 +1,5 @@
 """
-Custom tools that can be called by the AI assistant.
-Each function in this module can be used as a tool.
+Implement the Amadeus API integration here by creating custom tools. 
 """
 import json
 import aiohttp
