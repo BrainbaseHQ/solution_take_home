@@ -104,7 +104,7 @@ The agent should be able to take actions that require multiple API calls to comp
 
 ## Deliverable
 
-Either a new github repo, or a zip file containing the entire codebase with instructions on how to run it locally. After submission, the brainbase team should be able to run the code locally and chat with the agent, without any additional setup.
+Either a new github repo or a zip file containing the entire codebase with instructions on how to run it locally. After submission, the brainbase team should be able to run the code locally and chat with the agent, without any additional setup. **Please do not make a PR into this codebase or fork the codebase ** 
 
 
 ## Notes:
